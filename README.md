@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi Humans
+Iam bit like robot. I am new to node js, i  will need lot of help
